@@ -5,6 +5,7 @@ Basically doing the next sequence xd
   ***
  *****
 *******
+  |||
  */
 
 import java.util.Scanner;
@@ -23,5 +24,9 @@ public class ChristmasTree {
             }
             System.out.println(" ");
         }
+        for(int space = 0; space < (height - 2); space++){
+            System.out.print(" ");
+        }
+        System.out.println("|||");
     }
 }
