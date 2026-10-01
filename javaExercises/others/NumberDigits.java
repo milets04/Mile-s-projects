@@ -13,6 +13,8 @@ public class NumberDigits {
             n = n/10;
             res = 1 + counting(n);
         }
+        System.out.println(res);
         return res;
     }
+
 }
