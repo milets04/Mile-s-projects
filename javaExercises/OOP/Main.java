@@ -1,4 +1,4 @@
-package others;
+package OOP;
 
 public class Main {
     void main (){

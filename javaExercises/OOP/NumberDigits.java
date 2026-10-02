@@ -1,4 +1,4 @@
-package others;
+package OOP;
 
 /*
 Counting the number of digits that a number has
